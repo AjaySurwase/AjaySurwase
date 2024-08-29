@@ -1,5 +1,8 @@
 ## Hi there 👋
 # Hi, I'm Ajay Surwase! 👋
+### Hi there 👋
+
+<img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 ## About Me
 - 🌱 DevOps Engineer passionate about cloud automation, CI/CD, and Infrastructure as Code.
@@ -16,6 +19,11 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Iac:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=terraform"/></td>
+
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=terraform"/></td>
 
     </tr>
