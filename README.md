@@ -6,7 +6,7 @@
 
 ## About Me
 - 🌱 DevOps Engineer passionate about cloud automation, CI/CD, and Infrastructure as Code.
-- 🔧 Experienced in AWS, Docker, Kubernetes, Jenkins, Terraform, and more.
+- 🔧 Experienced in AWS, Terraform, Jenkins, Docker, Kubernetes, and more.
 - 💻 Always exploring new technologies and trying to do projects to better handson.
 
 ## Languages and Tools
