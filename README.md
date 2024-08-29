@@ -21,12 +21,6 @@
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Cloud Provider:</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
-
-    </tr>
-<tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=terraform"/></td>
-
     </tr>
     <!-- More rows here -->
 </table>
