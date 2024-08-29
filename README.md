@@ -1,6 +1,4 @@
-## Hi there 👋
 # Hi, I'm Ajay Surwase! 👋
-### Hi there 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
@@ -9,22 +7,20 @@
 - 🔧 Experienced in AWS, Terraform, Jenkins, Docker, Kubernetes, and more.
 - 💻 Always exploring new technologies and trying to do projects to better handson.
 
-## Languages and Tools
+## Tools
 <!-- Paste your table code here -->
-<h3 align="left">Languages and Tools:</h3>
 <table>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Iac:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=terraform"/></td>
-
+        <td width="200" style="font-weight: bold; padding-right: 10px; vertical-align: center;">Iac:</td>
+        <td width="200"><img style="display: block; margin-left:auto; margin-right:auto;" height="40" src="https://skillicons.dev/icons?i=terraform"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Cloud Provider:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=aws"/></td>
+        <td width="200" style="font-weight: bold; padding-right: 10px; vertical-align: center;">Cloud Provider:</td>
+        <td width="200" ><img height="40" style="display: block; margin-left:auto; margin-right:auto;" src="https://skillicons.dev/icons?i=aws"/></td>
     </tr>
     <!-- More rows here -->
-</table>
 
+</table>
 <!--
 **AjaySurwase/AjaySurwase** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
