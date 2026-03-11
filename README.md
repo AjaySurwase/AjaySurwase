@@ -7,7 +7,7 @@
 - 🔧 Experienced in AWS, Terraform, Jenkins, Docker, Kubernetes, and more.
 - 💻 Constantly exploring new technologies and taking on projects to gain hands-on experience and deepen my practical skills.
 - 📈 Committed to continuous learning and improvement, always seeking opportunities to advance my expertise and contribute to innovative solutions.
-- 🥅 2024 Goals: 
+- 🥅 2026 Goals: 
      - ~~Learn AWS Cloud~~ (2022)
      - ~~Learn Terraform~~ (2022)
      - ~~Learn K8S~~ (2023)
